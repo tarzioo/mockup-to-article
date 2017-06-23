@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+  * What new skills have you learned?
+I learned about superscript and subscript and horizontal rule.  These were new techniques I had not even thought about using in the past and I feel it will come in useful for the future.
+
+
+  * What has been easy?
+I have learned a lot of the html lessons previously so it has been a nice refresher.
+
+
+  * What has been difficult?
+I think it’s very easy for me to find a “hacky” way to solve a lot of this but I am really wanting to improve and write clean code. For example, it said in the project description that it could be solved without using <br> which is a way I would have done it. So I had to think of how it should look professionally and unnecessarily writing <br> when contents could be wrapped in elements like <p> would make more sense. So I am working on not taking shortcuts like I normally would have.
+
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+I have felt frustrated with the relative paths and googled to try and find clarification on it. To be honest, I am still unsure if I have done it correctly but I did take time to get my mind off of it so I wouldn’t feel too stressed out.
+
+
+---
+
+Your response goes here!
